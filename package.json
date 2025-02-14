@@ -3,6 +3,10 @@
   "private": true,
   "type": "module",
   "version": "0.1.0",
+  "scripts": {
+    "synth": "cdk synth",
+    "deploy": "cdk deploy"
+  },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
     "aws-cdk": "^2",
