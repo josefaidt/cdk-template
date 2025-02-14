@@ -1,0 +1,15 @@
+{
+  "name": "cdk-template",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4",
+    "aws-cdk": "^2",
+    "aws-cdk-lib": "^2",
+    "esbuild": "^0.25.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5"
+  },
+  "packageManager": "pnpm@10.2.0"
+}
